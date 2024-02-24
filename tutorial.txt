@@ -1,1 +1,2 @@
-Git checkout <commit hash
+kunai commit gareko ma janu parema
+Syntax :git checkout <commit hash code hashmap>
